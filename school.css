@@ -80,3 +80,6 @@ nav {
 #two, #five{
     height: 150px;
 }
+.container, card-column{
+    margin-bottom: 7px;
+}
