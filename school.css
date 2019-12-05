@@ -83,3 +83,6 @@ nav {
 .container, card-column{
     margin-bottom: 7px;
 }
+.navbar .nav-item a{
+    text-decoration: none;
+}
